@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mario Amaral</title>
+    <link>https://mariofts.github.io/</link>
+    <description>Recent content on Mario Amaral</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Mon, 25 Sep 2017 17:39:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://mariofts.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bem vindo</title>
+      <link>https://mariofts.github.io/post/bem-vindo/</link>
+      <pubDate>Mon, 25 Sep 2017 17:39:00 +0300</pubDate>
+      
+      <guid>https://mariofts.github.io/post/bem-vindo/</guid>
+      <description>Depois de muitos anos escrevendo esporadicamente somente em blogs das empresas onde trabalhei, finalmente tomei vergonha na cara e criei um blog pessoal.
+A ideia aqui é poder publicar sobre algumas coisas que estou estudando, assim me motivo a estudar mais regularmente e ainda faço um favor para a sociedade gerando mais conteúdo em língua portuguesa.
+Para criar esse blog segui o excelente tutorial feito pelo Guillaume Sempe, usando githubpages e hugo.</description>
+    </item>
+    
+  </channel>
+</rss>
