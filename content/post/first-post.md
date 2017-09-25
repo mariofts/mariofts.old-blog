@@ -6,7 +6,7 @@ tags:
   - site
   - blog
 title: "Bem vindo"
-slug: "Bem vindo"
+slug: "bem-vindo"
 date: 2017-09-25T17:39:00+03:00
 draft: false
 ---
