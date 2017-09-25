@@ -2,7 +2,7 @@
 # Created by https://www.gitignore.io/api/vim,macos,sublimetext
 
 ## site/blog
-/public/.
+public
 
 ### macOS ###
 *.DS_Store
