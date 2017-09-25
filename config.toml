@@ -16,7 +16,7 @@ paginate = 10
   subtitle = "Aleatoriedades e programação"
   brand = "mariofts"
   googleAnalytics = "Your Google Analytics tracking ID"
-  disqus = "mario_amaral"
+  disqus = "mariofts-com"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["elixir", "erlang"]
