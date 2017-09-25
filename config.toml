@@ -19,7 +19,10 @@ paginate = 10
   disqus = "mario_amaral"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
+  highlightjs_extra_languages = ["elixir", "erlang"]
   dateFormat = "02 Jan 2006, 15:04"
+#  custom_css = ["css/my.css"]
+#  custom_js = ["js/my.js"]
 
 [menu]
   # Shown in the side menu.
@@ -35,17 +38,17 @@ paginate = 10
     weight = 2
     identifier = "post"
     url = "/post/"
-  [[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 3
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 4
-    url = "/contact/"
+#  [[menu.main]]
+#    name = "About"
+#    pre = "<i class='fa fa-user fa-fw'></i>"
+#    weight = 3
+#    identifier = "about"
+#    url = "/about/"
+#  [[menu.main]]
+#    name = "Contact"
+#    pre = "<i class='fa fa-phone fa-fw'></i>"
+#    weight = 4
+#    url = "/contact/"
 
 [social]
   # Link your social networking accouns to the side menu
