@@ -1,0 +1,58 @@
+baseurl = "https://mariofts.github.io/"
+languageCode = "en-us"
+title = "Mario Amaral"
+theme = "blackburn"
+author = "Mario Amaral"
+copyright = "&copy; 2017. All rights reserved."
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  subtitle = "Aleatoriedades e programação"
+  brand = "mariofts"
+  googleAnalytics = "Your Google Analytics tracking ID"
+  disqus = "mario_amaral"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 3
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 4
+    url = "/contact/"
+
+[social]
+  # Link your social networking accouns to the side menu
+  # by entering your username or ID.
+  twitter = "mario_fts"
+  #facebook = "*"
+  #instagram = "*"
+  github = "mariofts"
+  #stackoverflow = "*"
+  linkedin = "mariofts"
