@@ -8,18 +8,6 @@
   </url>
   
   <url>
-    <loc>https://mariofts.github.io/tags/blog/</loc>
-    <lastmod>2017-09-25T17:39:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://mariofts.github.io/tags/hugo/</loc>
-    <lastmod>2017-09-25T17:39:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mariofts.github.io/</loc>
     <lastmod>2017-09-25T17:39:00+03:00</lastmod>
     <priority>0</priority>
@@ -32,19 +20,18 @@
   </url>
   
   <url>
-    <loc>https://mariofts.github.io/tags/site/</loc>
-    <lastmod>2017-09-25T17:39:00+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mariofts.github.io/tags/</loc>
-    <lastmod>2017-09-25T17:39:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mariofts.github.io/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mariofts.github.io/tags/tutorial/</loc>
+    <lastmod>2017-09-25T17:39:00+03:00</lastmod>
     <priority>0</priority>
   </url>
   

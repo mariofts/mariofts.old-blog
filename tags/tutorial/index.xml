@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Mario Amaral</title>
-    <link>https://mariofts.github.io/tags/blog/</link>
-    <description>Recent content in Blog on Mario Amaral</description>
+    <title>Tutorial on Mario Amaral</title>
+    <link>https://mariofts.github.io/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Mario Amaral</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
     <lastBuildDate>Mon, 25 Sep 2017 17:39:00 +0300</lastBuildDate>
     
-	<atom:link href="https://mariofts.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mariofts.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
