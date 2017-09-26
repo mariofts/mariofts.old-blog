@@ -15,7 +15,7 @@ paginate = 10
   # Shown in the home page
   subtitle = "Aleatoriedades e programação"
   brand = "mariofts"
-  googleAnalytics = "Your Google Analytics tracking ID"
+  googleAnalytics = "UA-107075144-1"
   disqus = "mariofts-com"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
