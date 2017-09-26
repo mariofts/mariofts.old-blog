@@ -2,9 +2,7 @@
 categories:
   - Outros
 tags:
-  - hugo
-  - site
-  - blog
+  - tutorial
 title: "Bem vindo"
 slug: "bem-vindo"
 date: 2017-09-25T17:39:00+03:00
